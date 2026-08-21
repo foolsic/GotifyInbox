@@ -1,0 +1,13 @@
+# 构建产物
+build/
+*.obj
+*.pdb
+*.res
+
+# 运行数据(含明文令牌,不应入库)
+publish-final/config.json
+publish-final/message.json
+crash.log
+
+# 临时文件
+*.tmp
