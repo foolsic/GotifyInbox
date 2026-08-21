@@ -1,16 +1,16 @@
-# 构建产物
+# Build output
 build/
 *.obj
 *.pdb
 *.res
 
-# 运行数据(含明文令牌,不应入库)
+# Runtime data (contains plaintext token - never commit)
 publish-final/config.json
 publish-final/message.json
 crash.log
 
-# 临时文件
+# Temp files
 *.tmp
 
-# ����ѹ����
+# Backup archives
 GotifyInbox-backup-*.zip
