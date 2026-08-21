@@ -11,3 +11,6 @@ crash.log
 
 # ä¸´æ—¶æ–‡ä»¶
 *.tmp
+
+# ±¸·ÝÑ¹Ëõ°ü
+GotifyInbox-backup-*.zip
