@@ -2,6 +2,16 @@
 
 单文件、零第三方依赖的 Gotify 桌面客户端,替代原 .NET 版(29MB)。
 
+## 截图
+
+主界面:
+
+![GotifyInbox 主界面](Picture/Main.png)
+
+设置界面:
+
+![GotifyInbox 设置界面](Picture/Setting.png)
+
 ## 功能
 
 - 实时接收 gotify 消息(wss,Schannel TLS 证书自动验证)
